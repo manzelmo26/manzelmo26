@@ -1,3 +1,5 @@
+![Marisol Anzelmo · Data Analyst · Data Scientist](banner.png)
+
 # Hola, soy Marisol Anzelmo 👋
 
 **Data Analyst · Data Scientist · Machine Learning** · Buenos Aires, Argentina
