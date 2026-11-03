@@ -4,13 +4,15 @@
 
 Convierto grandes volúmenes de datos en información para tomar decisiones. Soy Doctora en Ciencias Naturales (UNLP), trabajo como analista de datos desde 2020 en el sector público y con organismos internacionales (UNESCO, OEI) y soy docente universitaria de Estadística e Ingeniería de las Características.
 
+> 🇬🇧 *Data Analyst with 6+ years turning large datasets into decisions: SQL, Python, R, Machine Learning, Power BI and Tableau. PhD in Natural Sciences and university Statistics lecturer. Projects below are documented in Spanish, with an English summary in each repository.*
+
 ---
 
 ## 📂 Proyectos destacados
 
 | Proyecto | Qué resuelve | Herramientas |
 |---|---|---|
-| [**Autonomía fiscal de los municipios bonaerenses**](https://github.com/manzelmo26/autonomia-fiscal-municipios-pba) | Proyecto de punta a punta sobre 135 municipios: integración de 4 bases con **SQL** y control de integridad, preprocesamiento, regresión con diagnóstico de residuos, segmentación con **K-means** y modelo con **validación cruzada** (R² = 0,57) | SQL, SQLite, Python, statsmodels, scikit-learn |
+| [**Autonomía fiscal de los municipios bonaerenses**](https://github.com/manzelmo26/autonomia-fiscal-municipios-pba) | Proyecto de punta a punta sobre 135 municipios: integración de 4 bases con **SQL** y control de integridad, consultas analíticas (funciones de ventana, CTEs), preprocesamiento, regresión con diagnóstico de residuos, segmentación con **K-means** y modelo con **validación cruzada** (R² = 0,57) | SQL, SQLite, Python, statsmodels, scikit-learn |
 | [**Ausentismo escolar en la Provincia de Buenos Aires**](https://github.com/manzelmo26/ausentismo-escolar-pba) | Análisis de 687.141 registros de asistencia: patrones por nivel, mes y día, y correlación con el tamaño de sección | Python, pandas, scipy, Power BI |
 | [**Ingeniería de las Características**](https://github.com/manzelmo26/ingenieria-de-caracteristicas) | Tutoriales de mi autoría: EDA, transformación logarítmica, discretización sin *data leakage* y minería de texto (TF-IDF, colocaciones) | Python, scikit-learn, R, quanteda |
 | [**Visualización de datos con Tableau**](https://github.com/manzelmo26/tableau) | Historias interactivas con datos abiertos: vínculo escuela-estudiantes durante el ASPO 2020 y acceso a TICs por generación ([Tableau Public](https://public.tableau.com/app/profile/marisol2856/vizzes)) | Tableau |
