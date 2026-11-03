@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hola, soy Marisol Anzelmo 👋
 
-<!--
-**manzelmo26/manzelmo26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst · Data Scientist · Machine Learning** · Buenos Aires, Argentina
 
-Here are some ideas to get you started:
+Convierto grandes volúmenes de datos en información para tomar decisiones. Soy Doctora en Ciencias Naturales (UNLP), trabajo como analista de datos desde 2020 en el sector público y con organismos internacionales (UNESCO, OEI) y soy docente universitaria de Estadística e Ingeniería de las Características.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 Proyectos destacados
+
+| Proyecto | Qué resuelve | Herramientas |
+|---|---|---|
+| [**Machine Learning en municipios bonaerenses**](https://github.com/manzelmo26/municipios-pba-machine-learning) | Segmentación de los 135 municipios con **K-means** (4 perfiles fiscales y productivos) y **regresión lineal múltiple** que explica el 57 % de la autonomía fiscal (validación cruzada de 5 folds) | Python, scikit-learn |
+| [**Ausentismo escolar en la Provincia de Buenos Aires**](https://github.com/manzelmo26/ausentismo-escolar-pba) | Análisis de 687.141 registros de asistencia: patrones por nivel, mes y día, y correlación con el tamaño de sección | Python, pandas, scipy, Power BI |
+| [**Ingeniería de las Características**](https://github.com/manzelmo26/ingenieria-de-caracteristicas) | Tutoriales de mi autoría: EDA, transformación logarítmica, discretización sin *data leakage* y minería de texto (TF-IDF, colocaciones) | Python, scikit-learn, R, quanteda |
+| [**Dashboards en Tableau Public**](https://public.tableau.com/app/profile/marisol2856/vizzes) | Visualizaciones interactivas publicadas | Tableau |
+
+---
+
+## 🔧 Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=microsoftsqlserver&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+
+- **Machine Learning:** regresión lineal y logística, regularización (Ridge, Lasso, Elastic Net), árboles, Random Forest, XGBoost, K-means, clustering jerárquico, PCA, validación cruzada.
+- **Estadística:** univariada y multivariada, inferencia, análisis de varianza, correlación.
+- **Datos:** SQL sobre bases de gran volumen (+1.000 consultas en producción), limpieza y modelado de datos.
+
+---
+
+## 📚 Investigación
+
+Más de 10 publicaciones científicas con aplicación de métodos estadísticos univariados y multivariados, de mi etapa como investigadora doctoral y postdoctoral en CONICET (2011–2018).
+
+👉 [Perfil en Google Scholar](https://scholar.google.com/citations?user=hrXuMs8AAAAJ&hl=es)
+
+---
+
+## 🎓 Formación en datos
+
+- Diplomatura en Análisis de Datos para el Sector Público, UTN (2026)
+- Diplomatura en Ciencia de Datos, UNLP (2025)
+- Diplomatura en Diseño de Producción Estadística, UNLP (2025)
+- Diplomatura en Análisis de Datos y Políticas Públicas, UBA (2024)
+
+---
+
+## 📫 Contacto
+
+[LinkedIn](https://www.linkedin.com/in/marisol-anzelmo-369a9577) · marisolanzelmo@gmail.com
