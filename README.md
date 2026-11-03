@@ -13,7 +13,7 @@ Convierto grandes volúmenes de datos en información para tomar decisiones. Soy
 | [**Autonomía fiscal de los municipios bonaerenses**](https://github.com/manzelmo26/autonomia-fiscal-municipios-pba) | Proyecto de punta a punta sobre 135 municipios: integración de 4 bases con **SQL** y control de integridad, preprocesamiento, regresión con diagnóstico de residuos, segmentación con **K-means** y modelo con **validación cruzada** (R² = 0,57) | SQL, SQLite, Python, statsmodels, scikit-learn |
 | [**Ausentismo escolar en la Provincia de Buenos Aires**](https://github.com/manzelmo26/ausentismo-escolar-pba) | Análisis de 687.141 registros de asistencia: patrones por nivel, mes y día, y correlación con el tamaño de sección | Python, pandas, scipy, Power BI |
 | [**Ingeniería de las Características**](https://github.com/manzelmo26/ingenieria-de-caracteristicas) | Tutoriales de mi autoría: EDA, transformación logarítmica, discretización sin *data leakage* y minería de texto (TF-IDF, colocaciones) | Python, scikit-learn, R, quanteda |
-| [**Dashboards en Tableau Public**](https://public.tableau.com/app/profile/marisol2856/vizzes) | Visualizaciones interactivas publicadas | Tableau |
+| [**Visualización de datos con Tableau**](https://github.com/manzelmo26/tableau) | Historias interactivas con datos abiertos: vínculo escuela-estudiantes durante el ASPO 2020 y acceso a TICs por generación ([Tableau Public](https://public.tableau.com/app/profile/marisol2856/vizzes)) | Tableau |
 
 ---
 
